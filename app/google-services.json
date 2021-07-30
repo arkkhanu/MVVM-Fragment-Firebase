@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56003711276",
+    "project_id": "school-attendance-1aa32",
+    "storage_bucket": "school-attendance-1aa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56003711276:android:7f927b704be9ca31191c89",
+        "android_client_info": {
+          "package_name": "com.application.bmc.firebaseattandence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56003711276-0gigkjqjtnoeh95gang1mq4skn606s72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgZo8AV1_RbXQNptcZ9vICiUcc1N6xcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56003711276-0gigkjqjtnoeh95gang1mq4skn606s72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
